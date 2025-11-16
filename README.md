@@ -13,3 +13,6 @@ No external modules, no hidden dependencies — just run the notebook from top t
 **Dependencies:** NumPy, SciPy, scikit-learn, Matplotlib.
 
 Feel free to reuse or adapt the code for your own sensitivity analysis experiments.
+
+#Licence
+This code is released under the MIT license (see file LICENSE).
