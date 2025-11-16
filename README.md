@@ -14,5 +14,5 @@ No external modules, no hidden dependencies — just run the notebook from top t
 
 Feel free to reuse or adapt the code for your own sensitivity analysis experiments.
 
-#Licence
+# Licence
 This code is released under the MIT license (see file LICENSE).
